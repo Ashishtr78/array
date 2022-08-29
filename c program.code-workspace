@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\c program"
+		},
+		{
+			"path": "..\\python"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"fCTORIAL.C": "cpp",
+			"factorial.C": "cpp"
+		}
+	}
+}
